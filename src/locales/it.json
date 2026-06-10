@@ -1813,6 +1813,7 @@
     "All Queries": "All Queries",
     "Axis / Category": "Axis / Category",
     "Series": "Series",
+    "Description (Ignores Case)": "Description (Ignores Case)",
     "Transaction Date": "Transaction Date",
     "Transaction Year-Month": "Transaction Year-Month",
     "Transaction Year-Quarter": "Transaction Year-Quarter",
